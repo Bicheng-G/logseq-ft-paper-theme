@@ -1,4 +1,4 @@
-# logseq-ft-paper-theme
+# logseq-paper-ft-theme
 This theme is edited from original [logseq-paper-theme](https://github.com/wirtzdan/logseq-paper-theme) by wirtzdan.
 
 I am a fan of Financial Times pink color, so I have swapped the light theme color to match Financial Times color palatte.
